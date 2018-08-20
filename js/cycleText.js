@@ -1,6 +1,6 @@
 var cycleText = [
   'critical enquiry.',
-  'deconstructing systems.',
+  'prototyping alternatives.',
   'experimentation.',
 ];
 
