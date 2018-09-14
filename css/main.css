@@ -48,7 +48,7 @@ p, li {
   font-family: 'Source Sans Pro', 'sans-serif'; 
   font-weight: 100;
   line-height: 1.6em;
-  font-size: 1.2em
+  font-size: 1.2em;
 }
 
 h1 {
@@ -457,8 +457,14 @@ body {
 /* 48em = 768px */
 
 @media (min-width: 48em) {
+
+  li {
+  font-family: 'Source Sans Pro', 'sans-serif'; 
+  font-weight: 100;
+  line-height: 1.6em;
+  font-size: 1.2em;
+  }
   
- 
   .header li {
     float: left;
   }
