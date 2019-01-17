@@ -145,6 +145,14 @@ video {
     max-width: 100%;
 }
 
+img {
+  margin-bottom: 10px;
+}
+
+.caption {
+  font-size: 0.9rem;
+}
+
 
 /*
  * Remove default fieldset styles.
